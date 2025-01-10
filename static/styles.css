@@ -43,11 +43,15 @@ body{
     text-align: left
 }
 
-.list{
-    padding-left: 20px
-}
-
 #footer{
     display: flex;
     justify-content: center;
+}
+
+#outro{
+    text-align: center
+}
+
+ul, ol{
+    margin-left: -10px
 }
