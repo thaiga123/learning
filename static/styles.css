@@ -11,7 +11,7 @@ body{
         text-align: center
     }
     .list{
-        padding-left: 0px
+        margin-left: -10px
     }
 }
 
@@ -24,7 +24,7 @@ body{
         text-align: center
     }
     .list{
-        padding-left: 0px
+        margin-left: -10px
     }
 }
 
