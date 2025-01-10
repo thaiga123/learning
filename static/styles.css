@@ -10,7 +10,7 @@ body{
     .quotes{
         text-align: center
     }
-    .list{
+    ul, ol{
         margin-left: -10px
     }
 }
@@ -23,7 +23,7 @@ body{
     .quotes{
         text-align: center
     }
-    .list{
+    ul, ol{
         margin-left: -10px
     }
 }
