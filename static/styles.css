@@ -1,0 +1,28 @@
+body{
+    padding-bottom: 10px
+}
+
+#main-header{
+    background-color: #005A9E;
+    color: white;
+    font-family: "Roboto";
+    padding-left: 10px
+}
+
+.headings{
+    text-decoration: underline
+}
+
+.paragraphs{
+    margin-left: 20px;
+    text-align: left
+}
+
+.list{
+    padding-left: 20px
+}
+
+#footer{
+    display: flex;
+    justify-content: center;
+}
