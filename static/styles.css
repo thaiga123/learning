@@ -2,6 +2,20 @@ body{
     padding-bottom: 10px
 }
 
+@media (max-width: 768px){
+    body{
+        padding-left: 10px;
+        padding-right: 10px
+    }
+}
+
+@media (max-width: 400px){
+    body{
+        padding-left: 5px;
+        padding-right: 5px
+    }
+}
+
 #main-header{
     background-color: #005A9E;
     color: white;
