@@ -3,14 +3,14 @@ body{
 }
 
 @media (max-width: 768px){
-    body{
+    .paragraphs{
         padding-left: 10px;
         padding-right: 10px
     }
 }
 
 @media (max-width: 400px){
-    body{
+    .paragraphs{
         padding-left: 5px;
         padding-right: 5px
     }
